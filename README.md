@@ -32,3 +32,7 @@ Now you can install packages into this virtual environment using `pip`
 ```bash
 pip install mediapipe
 ```# 3D-Object-Detection-with-MediaPipe
+
+
+### Demo
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*stkMLjzGa3iIRJj4INMcjw.gif"/>
