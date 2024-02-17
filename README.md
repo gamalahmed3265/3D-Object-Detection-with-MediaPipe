@@ -36,4 +36,7 @@ pip install mediapipe
 
 
 ### Demo
+
+![3D Object Detection with MediaPipe](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*stkMLjzGa3iIRJj4INMcjw.gif)
+
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*stkMLjzGa3iIRJj4INMcjw.gif"/>
